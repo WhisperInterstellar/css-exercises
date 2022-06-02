@@ -1,0 +1,20 @@
+/*here goes*/
+
+p.extra {
+    font-size: 24px;
+} 
+p.odd {
+background-color: #f49aa9;
+font-family: "DejaVu Sans",Verdana,sans-serif;
+}
+
+#two {
+    color:#5f5fe4;
+    font-size: 36px;
+}
+#four {
+    background-color:#92f492;
+    font-size: 24px;
+    font-weight: bold;
+
+}
