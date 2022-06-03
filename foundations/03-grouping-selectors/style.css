@@ -1,0 +1,12 @@
+.left-twixt {
+    color: #ffffff;
+    background-color: #000000;
+}
+.right-twixt {
+    color: #000000;
+    background-color: #ffff00;
+}
+.left-twixt .right-twixt{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
